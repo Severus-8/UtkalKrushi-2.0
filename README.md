@@ -1,4 +1,4 @@
-# Utkal Krushi (ଉତ୍କଳ କୃଷି) 🌾
+# Utkal Krushi (ଉତ୍କଳ କୃଷି) 🌾(2.0 hehehe)
 
 A simple, reliable, and multilingual React frontend built for the farming community of Odisha and India.
 
